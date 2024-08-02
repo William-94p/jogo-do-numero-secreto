@@ -24,5 +24,5 @@ while (chute != numeroSecreto) {
     }
 }
 let palavraTentativa = tentativas > 1 ? `tentativas` : `tentativa`;
-alert(`isso ai! voce descobriu o numero secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}.`);
+alert(`muito bem! voce descobriu o numero secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}.`);
 
